@@ -42,7 +42,7 @@ python analyze_logs.py /path/to/log --top 20
 
 ## 🐍 Why “Snekalyzer”?
 2 reasons:
-- Because snakes analyze logs.
-- Because I like snakes. 
+- Snakes analyze logs.
+- I like snakes. 
 
 Happy slithering!!
