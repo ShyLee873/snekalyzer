@@ -15,7 +15,7 @@ For the Rails dev who wants quick performance insights without spinning up heavy
 
 ## Installation
 
-1. Clone this folder or copy it into your project.
+1. Clone this repo or copy it into your project.
 2. Run with Python 3.9+.
 
 No external packages required!
